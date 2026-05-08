@@ -1,0 +1,20 @@
+{
+  "mappings": {
+    "com/oe/simgate/mixin/MixinArPhExTick": {
+      "tick": "Lnet/minecraft/world/entity/Entity;m_8119_()V"
+    },
+    "com/oe/simgate/mixin/MixinSporeTick": {
+      "tick": "Lnet/minecraft/world/entity/Entity;m_8119_()V"
+    }
+  },
+  "data": {
+    "searge": {
+      "com/oe/simgate/mixin/MixinArPhExTick": {
+        "tick": "Lnet/minecraft/world/entity/Entity;m_8119_()V"
+      },
+      "com/oe/simgate/mixin/MixinSporeTick": {
+        "tick": "Lnet/minecraft/world/entity/Entity;m_8119_()V"
+      }
+    }
+  }
+}
