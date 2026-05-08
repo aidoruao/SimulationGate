@@ -1,5 +1,0 @@
-Manifest-Version: 1.0
-MixinConfigs: simgate.mixins.json
-Implementation-Title: SimulationGate
-Implementation-Version: 1.0.0
-
